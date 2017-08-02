@@ -1,11 +1,11 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "FTSF",
+  "description": "gulpfile",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Competa-IT/ftsf.eu"
+    "url": "https://github.com/cryosgurl/gulpfile"
   },
   "devDependencies": {
     "del": "^3.0.0",
